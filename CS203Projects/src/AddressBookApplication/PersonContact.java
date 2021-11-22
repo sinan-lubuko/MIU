@@ -1,0 +1,39 @@
+package AddressBookApplication;
+
+public class PersonContact extends AddressBook {
+    private String firstName;
+    private String lastName;
+
+
+    public PersonContact(String displayName, String note, String firstName, String lastName) {
+        super(displayName, note);
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    @Override
+    public String toString() {
+        return "\nPersonContact{" +
+                super.toString()+ '\'' +
+                ", \nfirstName='" + firstName +
+                ", \nlastName='" + lastName +
+                '}';
+    }
+}

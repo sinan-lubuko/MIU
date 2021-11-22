@@ -1,0 +1,12 @@
+FullProfessor Jack Ryan 2000-05-09 120000.0
+HourlyPaidStaff Anita Smith 2011-05-09 12.5
+Instructor John Clark 1996-05-09 80000.0
+FullProfessor Jack Ryan 2000-05-09 120000.0
+HourlyPaidStaff Anita Smith 2011-05-09 12.5
+Instructor John Clark 1996-05-09 80000.0
+FullProfessor Jack Ryan 2000-05-09 120000.0
+HourlyPaidStaff Anita Smith 2011-05-09 12.5
+Instructor John Clark 1996-05-09 80000.0
+FullProfessor Jack Ryan 2000-05-09 120000.0
+HourlyPaidStaff Anita Smith 2011-05-09 12.5
+Instructor John Clark 1996-05-09 80000.0
